@@ -31,7 +31,7 @@ docker create <image-name> <command>
 # 启动容器
 docker start <container-id>
 
-# docker run = docker create + docker run
+# docker run = docker create + docker start
 docker run <image-name> <command>
 
 # 查看某个container log
@@ -51,7 +51,7 @@ docker kill <container-id>
 #-t: 对终端的输入输出进行格式化。
 docker exec -it <container-id> <command>
 
-# example: 操作指定容器内的tty
+# example: 操作指定容器内使用某个shell(bash or sh)
 docker exec -it <container-id> sh
 
 # example: 我想很快的启动并且进入他的sh
