@@ -1,3 +1,8 @@
+---
+title: 用DSL优化你的文档
+description: 用DSL优化你的文档
+ctime: 2024-08-24
+---
 ## 服务器常用命令
 ```shell
 #查看容器日志
