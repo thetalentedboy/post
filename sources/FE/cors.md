@@ -1,7 +1,7 @@
 ---
 title: 你应该知道的cors相关
 description: 你应该知道的cors相关
-ctime: 2024-06-11
+ctime: 2024-06-11 18:25
 ---
 # 跨域
 跨域 (Cross-Origin) 是指一个域上的文档或脚本尝试去请求另一个域上的资源。这里的“域”指的是互联网域名系统中的域，通常由协议（比如 HTTP 或 HTTPS）、域名和端口组成。跨域问题是由于出于安全考虑，Web 浏览器实施的同源策略（Same-Origin Policy）造成的。
