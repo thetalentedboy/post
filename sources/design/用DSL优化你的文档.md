@@ -1,7 +1,7 @@
 ---
 title: 用DSL优化你的文档
 description: 用DSL优化你的文档
-ctime: 2024-08-24
+ctime: "2024-08-24"
 ---
 # 写在前面
 DSL（Domain-Specific Language，领域特定语言）是指专门用于特定应用领域的编程语言，例如 SQL、HTML、CSS 和正则（Regex）等。本文将介绍一些在编写产出方案文档时常用的 DSL 技巧，如制作流程图、时序图和表关联关系等。
