@@ -1,7 +1,7 @@
 ---
-title: 用DSL优化你的文档
-description: 用DSL优化你的文档
-ctime: 2024-08-24
+title: linux小妙招
+description: linux小妙招
+ctime: "2024-08-24"
 ---
 ## 服务器常用命令
 ```shell

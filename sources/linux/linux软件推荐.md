@@ -1,4 +1,8 @@
-
+---
+title: linux软件推荐
+description: linux软件推荐
+ctime: "2023-06-12"
+---
 # 写在前面
 本文为个人使用的一些好用工具推荐及配置教程，可以视为备忘录，发行版为arch linux。
 
